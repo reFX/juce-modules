@@ -10,3 +10,4 @@ List of 3rd party JUCE modules
 | [juce-toys](https://github.com/jcredland/juce-toys) | Debugging and MultiThreading utilities | MIT |
 | [Lime Juce](https://github.com/jcredland/jcf_lime_juce) | Crypto, UI (FontAwesome) and Utilties | MIT + OFL |
 | [RestRequest](https://github.com/adamski/RestRequest) | JUCE module for making HTTP requests to REST API's | MIT |
+| [HTML Entity Decoder](https://github.com/asimilon/html_entity_decoder) | A simple HTML entity String decoder module for JUCE. | Boost Software License |
